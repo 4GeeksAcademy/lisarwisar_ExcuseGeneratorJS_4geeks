@@ -12,5 +12,5 @@ let who = ['The dog', 'My grandma', 'His turtle', 'My bird'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
 let what = ['my homework', 'the keys', 'the car'];
 let when = ['before the class', 'right on time', 'when I finished', 'during my lunch', 'while I was praying'];
-git a
+
 console.log(random_word(who)+" "+random_word(action)+" "+random_word(what)+" "+random_word(when));
